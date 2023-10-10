@@ -11,7 +11,7 @@ vector<Product> products;
 ProductManager mgr; 
 
 void acceptProducts(){
-	for (int i = 1; i <=3 ; i++) 
+	for (int i = 1; i <=2 ; i++) 
     {
     	 cout<<"\n Enter flower Title  :";
     	 string title;
